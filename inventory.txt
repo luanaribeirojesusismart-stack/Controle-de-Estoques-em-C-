@@ -1,0 +1,6 @@
+Notebook
+10
+Caneta
+50
+Caderno
+25
